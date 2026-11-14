@@ -2,6 +2,6 @@
   "version": 1,
   "kind": "cli",
   "setup": [],
-  "verify": ["python3", "-B", "bench.py", "baseline"],
-  "demo": ["python3", "-B", "bench.py", "baseline"]
+  "verify": ["python3", "-B", "bench.py", "target"],
+  "demo": ["python3", "-B", "bench.py", "target"]
 }
